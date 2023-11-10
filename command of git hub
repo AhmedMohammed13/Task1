@@ -35,9 +35,27 @@ what is the diffrence between git and github?
   -write commit message in imperative mood
   -start with a brief subject
 -------------------------------------------------------------------------------------------------
+How to push code?
+-git commit -m "description"
+-git push + remote name + branch name
 
+-----------------------------------------------------------------------------------------
+How to create a branch?
+-git branch + branch name
+-switch to the new branch checkout + branch name
+-------------------------------------------------------------------------------------------
+How to merge branches?
+-git merge + name of the branch 
+-git add
+-git commit
+-----------------------------------------------------------------------------------
+How to work as a collborators on a project?
+-Project collaboration is a team-based process that increases productivity through more efficient workflows.
+---------------------------------------------------------------------------------------
+which files  should appear and which iles shouldnt appear in repo?
 
-
+-should appear==>code files..project files..readme files..resources.
+- shouldnt appear==>libraries..credentails..files dont bleong project.
 
 
 
