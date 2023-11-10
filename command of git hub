@@ -1,0 +1,46 @@
+What is source code management?
+  - system that tracks changes to computer files 
+    provide repostoryies
+--------------------------------------------------------------------------------------
+what is git?
+  -its a disturbuited version control used for track changes in computer files.
+----------------------------------------------------------------------------------
+  What is GitHub?
+  -   is a web based hosting services for version control using git.its mostly using for computer code
+------------------------------------------------------------------------------------------------
+what is the diffrence between git and github?
+  -Git is a distributed version control system that tracks changes to files over time. GitHub is a web-based hosting service for version control using Git.
+------------------------------------------------------------------------------------------------------------
+  How to create a repository?
+  - In local==>go to the place you want to create repo in and by use command:git init + repo name .
+  - In global==> we go to git hub web and click on create new repo.
+-----------------------------------------------------------------------------------------------------------
+  what is a readme file?
+  -we add readme file to your repository to tell other people why your project is useful.
+  -------------------------------------------------------------------------------------------------------------
+  How to write good READMEs?
+  -Here are some guide questions that will help you out:
+
+  -What was your motivation?
+  -Why did you build this project?
+  -What problem does it solve?
+  -What did you learn?
+  -What makes your project stand out?
+  ------------------------------------------------------------------------------------
+  How to commit?
+  -add files
+  -git commit -m "description"
+  ------------------------------------------------------------------------------------
+  How to write helpul commit message?
+  -write commit message in imperative mood
+  -start with a brief subject
+-------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+  
